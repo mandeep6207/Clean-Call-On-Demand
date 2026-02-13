@@ -169,14 +169,6 @@ Smart Swachh introduces a **community‑driven, demand‑based garbage collectio
 
 ---
 
-## 🤝 Team
-
-**Team Name:** Quad Core / Smart Swachh Team
-**Category:** Civic Tech / Smart Cities
-**Hackathon Date:** 28 December
-
----
-
 ## 📌 Vision
 
 > “We are not fixing garbage pickup.
