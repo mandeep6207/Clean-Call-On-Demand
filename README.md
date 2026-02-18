@@ -1,5 +1,4 @@
 # 🟢 Smart Swachh
-Prototype Link- https://starlit-rolypoly-a4cc42.netlify.app/
 
 ### Community‑Driven Smart Garbage Collection System
 
