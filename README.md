@@ -1,4 +1,4 @@
-# 🟢 Smart Swachh
+# Smart Swachh
 
 ### Community‑Driven Smart Garbage Collection System
 
